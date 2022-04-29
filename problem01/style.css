@@ -1,0 +1,15 @@
+.autocomplete{
+    width: 350px;
+    margin: 50px;
+    color: blue;
+    background-color: blue;
+}
+.btnSearch{
+    background-color:blue;
+    border:blue solid;
+    margin-left: 0;
+}
+input{
+    width:300px;
+    border:blue solid;
+}
